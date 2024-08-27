@@ -1,0 +1,21 @@
+.div3 {
+  background-color: lightblue;
+  margin: 50px;
+  padding: 30px;
+}
+
+.container {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.col {
+  background-color: lightpink;
+  margin: 20px;
+  border: 4px solid brown;
+  padding: 40px;
+  order: 5px;
+}
