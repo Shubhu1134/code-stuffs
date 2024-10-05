@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div>THis is a Prompt Demo</div>
+    <button onclick="start()">Start the Program</button>
+  </body>
+
+  <script>
+    function start() {
+      let gender = prompt("What is your gender");
+      if (gender == "male") {
+        let age = prompt("What is your age?");
+
+        age = Number(age); // Convert age to a number for comparison
+
+        // Check if age is within the range of 18 to 40
+        if (age > 18 && age <= 40) {
+          // Check if the user is married
+          if (married === "yes") {
+            alert("You are hired!");
+          } else {
+            alert("You are not hired.");
+          }
+        } else {
+          // Alert if age is not in the valid range
+          alert("You are not hired due to age restrictions.");
+        }
+      } // else {
+      alert("You are not hired due to gender restrictions.");
+      //}
+      // let married = prompt("Are you married? (yes/no)");
+      //if (18 < age <= 40) {
+      // let married = prompt("are you married");
+      // if (married == yes) {SS
+      //   prompt("you are hired");
+      //  } else {
+      //   alert("you are not hired");
+      //  }
+      //  }
+      alert("you are not hired");
+      // }
+      // }
+
+      if (gender === "female") {
+        let age = prompt("what is your age ");
+        if (25 < age <= 35) {
+          let married = prompt("are you married");
+          if (married == "yes") {
+            alert("you are hired");
+          } else {
+            alert("you are not hired");
+          }
+        } else {
+          alert("you are not hired");
+        }
+      }
+    }
+  </script>
+</html>

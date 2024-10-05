@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function Notecount(ammount) {
+        //initialise note count
+        let notes500 = 0;
+        let notes100 = 0;
+        let notes50 = 0;
+
+        //caloculate 500 notes count
+        if (ammount >= 500) {
+          notes500 = math.floor(ammount / 500);
+          ammount = ammount % 500; // update the ammount after 500's cout
+        }
+        if (ammount >= 100) {
+          notes500 = math.floor(ammount / 100);
+          ammount = ammount % 100; // update the ammount after 100's cout
+        }
+        if (ammount >= 50) {
+          notes500 = math.floor(ammount / 50);
+          ammount = ammount % 50; // update the ammount after 50's cout
+        }
+        if (ammount >= 10) {
+          notes500 = math.floor(ammount / 10);
+          ammount = ammount % 10; // update the ammount after 10's cout
+        }
+        if (ammount >= 5) {
+          notes500 = math.floor(ammount / 5);
+          ammount = ammount % 5; // update the ammount after 5's cout
+        } // return the count of each note
+        return {
+          notes500: notes500,
+          notes100: notes100,
+          notes50: notes50,
+          notes10: notes10,
+          notes5: notes5,
+          notes1: notes1,
+        }; // prompt for the ammont
+        {
+          let ammount = prompt("Enter the ammount in INR:");
+          //convert into the numbers
+          ammount = Number(ammount);
+        }
+      }
+    </script>
+  </body>
+</html>

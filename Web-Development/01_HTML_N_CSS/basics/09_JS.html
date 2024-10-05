@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div>
+      <h1>Simple JS Function Program!</h1>
+      <div>
+        <label>First No:</label>
+        <input type="number" id="num1" /><br />
+        <label>Second No:</label>
+        <input type="number" id="num2" /><br />
+        <button onClick="add()">Add</button>
+        <button onClick="sub()">Subtract</button>
+        <button onClick="prod()">Multiply</button>
+        <button onClick="divide()">Divide</button>
+        <button onClick="modulus()">Modulus</button><br />
+        <div>Result:<span id="output"></span></div>
+      </div>
+    </div>
+  </body>
+  <script>
+    function add() {
+      num1 = parseInt(document.getElementById("num1").value);
+      num2 = parseInt(document.getElementById("num2").value);
+      const sum = num1 + num2;
+
+      document.getElementById("output").innerHTML = sum;
+    }
+    function sub() {
+      num1 = parseInt(document.getElementById("num1").value);
+      num2 = parseInt(document.getElementById("num2").value);
+      const sum = num1 - num2;
+
+      document.getElementById("output").innerHTML = sum;
+    }
+    function prod() {
+      num1 = parseInt(document.getElementById("num1").value);
+      num2 = parseInt(document.getElementById("num2").value);
+      const sum = num1 * num2;
+
+      document.getElementById("output").innerHTML = sum;
+    }
+    function divide() {
+      num1 = parseInt(document.getElementById("num1").value);
+      num2 = parseInt(document.getElementById("num2").value);
+      const sum = num1 / num2;
+
+      document.getElementById("output").innerHTML = sum;
+    }
+    function modulus() {
+      num1 = parseInt(document.getElementById("num1").value);
+      num2 = parseInt(document.getElementById("num2").value);
+      const sum = num1 % num2;
+
+      document.getElementById("output").innerHTML = sum;
+    }
+  </script>
+</html>
