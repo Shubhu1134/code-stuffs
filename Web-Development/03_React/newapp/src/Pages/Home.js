@@ -1,3 +1,4 @@
+import App from "../omponents/Header";
 const Cool = () => {
   return (
     <>
@@ -9,7 +10,8 @@ const Cool = () => {
 const Home = () => {
   return (
     <>
-      <h1>HomePage</h1>
+      <h1>App</h1>
+      <App />
       <Cool />
     </>
   );
