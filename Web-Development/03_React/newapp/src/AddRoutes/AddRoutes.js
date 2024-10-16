@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Shubham from "../Components/Shubham";
+import BootstrapTest from "../Pages/BootstrapTest";
 import Home from "../Pages/Home";
-import RandomName from "../Pages/About";
 
 const AddRoutes = () => {
   return (
@@ -8,7 +9,8 @@ const AddRoutes = () => {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<RandomName />} />
+          <Route path="/bs" element={<BootstrapTest />} />
+          <Route path="/shubh" element={<Shubham />} />
         </Routes>
       </BrowserRouter>
     </>

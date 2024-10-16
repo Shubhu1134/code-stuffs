@@ -1,4 +1,4 @@
-import App from "../omponents/Header";
+import App from "../Components/Header";
 const Cool = () => {
   return (
     <>

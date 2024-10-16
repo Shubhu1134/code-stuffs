@@ -1,0 +1,15 @@
+.heading-01 {
+  display: flex;
+  justify-content: center;
+  margin: 4px;
+  background-color: lightpink;
+  color: purple;
+}
+
+.my-col {
+  display: flex;
+  background-color: lightgray;
+  padding: 4px;
+  margin: 5px;
+  justify-content: center;
+}

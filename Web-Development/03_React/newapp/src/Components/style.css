@@ -1,0 +1,80 @@
+/* styles.css */
+
+.App {
+  font-family: sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.menu li {
+  margin-right: 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #333;
+}
+
+.actions button {
+  margin-left: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.login {
+  background-color: #eee;
+  color: #333;
+}
+
+.signup {
+  background-color: #ddf183;
+  color: #fff;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  background-color: #46999f;
+  color: #fff;
+  padding: 50px;
+}
+
+.content {
+  flex: 1;
+}
+
+.content h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.get-started {
+  background-color: #fff;
+  color: #f05050;
+  padding: 0;
+}
