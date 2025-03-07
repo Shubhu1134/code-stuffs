@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function calculateCrossingTime(
+        lengthOfTrain,
+        lengthOfPlatform,
+        speedOfTrain
+      ) {
+        // Calculate total distance to cover
+        const totalDistance = lengthOfTrain + lengthOfPlatform;
+
+        // Calculate time taken to cross in seconds
+        const timeInSeconds = totalDistance / speedOfTrain;
+
+        // Convert time from seconds to hh:mm:ss format
+        const hours = Math.floor(timeInSeconds / 3600);
+        const minutes = Math.floor((timeInSeconds % 3600) / 60);
+        const seconds = Math.floor(timeInSeconds % 60);
+
+        // Format time as hh:mm:ss
+        return `${String(hours).padStart(2, "0")}:${String(minutes).padStart(
+          2,
+          "0"
+        )}:${String(seconds).padStart(2, "0")}`;
+      }
+
+      // Example usage:
+      const lengthOfTrain = 200; // Length of train in meters
+      const lengthOfPlatform = 250; // Length of platform in meters
+      const speedOfTrain = 25; // Speed of train in m/s
+
+      const crossingTime = calculateCrossingTime(
+        lengthOfTrain,
+        lengthOfPlatform,
+        speedOfTrain
+      );
+      prompt(`Time taken to cross the platform: ${crossingTime}`);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+.Header {
+  background-color: yellow;
+  text-align: center;
+  padding: 4px;
+}
+.image1 {
+  size: 60px;
+}
+.but1 {
+  background-color: rgb(47, 47, 162);
+}
+
+.bottom-button {
+  height: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 12%;
+  background-color: rgb(83, 83, 216);
+  position: absolute;
+  bottom: 30px; /* Distance from the bottom */
+  right: 68%; /* Center horizontally */
+  /* Adjust for centering */
+}
+
+.Package {
+  margin: 50px;
+  width: 8px;
+  height: 180px;
+  border: 2px solid black; /* Optional border */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.icon {
+  font-size: 80px;
+}
+.line {
+  text-align: center;
+  color: gray;
+}

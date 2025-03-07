@@ -1,0 +1,17 @@
+.bottom {
+  background-color: rgb(206, 254, 241);
+  text-align: center;
+  padding: 20px;
+  margin: 100px;
+}
+.button1 {
+  height: 40px;
+  width: 60px;
+}
+.button2 {
+  height: 40px;
+  width: 60px;
+}
+.span {
+  color: black;
+}

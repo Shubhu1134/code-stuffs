@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function Person(firstName, lastName, age) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+        this.introduce = function () {
+          let introduce = prompt(`Hi, I'm ${this.firstName} ${this.lastName}.`);
+        };
+      }
+
+      const person1 = new Person("Alice", "Smith", 25);
+      const person2 = new Person("Bob", "Johnson", 28);
+
+      person1.introduce(); // Output: Hi, I'm Alice Smith.
+      person2.introduce(); // Output: Hi, I'm Bob Johnson.
+    </script>
+  </body>
+</html>

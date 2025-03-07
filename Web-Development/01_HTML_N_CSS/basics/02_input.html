@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Input Boxes</title>
+  </head>
+  <body>
+    <label>female:</label>
+    <input type="radio" name="Gender" />
+    <label>male:</label>
+    <input type="radio" name="Gender" />
+
+    <label>Function Result</label>
+    <button onclick="findSum(0)">Click me !</button>
+    <p id="ans"></p>
+    <script>
+      function findSum(n) {
+        let ans = 0;
+        for (let i = 1; i <= n; i++) {
+          ans = ans + i;
+        }
+        return ans;
+      }
+      let ans = findSum(100);
+      console.log(ans);
+      document.getElementById("ans").innerHTML = ans;
+    </script>
+  </body>
+</html>
