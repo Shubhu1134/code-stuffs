@@ -16,3 +16,8 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 
 - ✅ Learned: List, Tuple, Set, Dictionary
 - 📝 File: `day2_data_structures.py`
+
+## 📅 Day 3 – NumPy Basics
+
+- ✅ Learned: Arrays, operations, shapes, slicing, broadcasting
+- 📝 File: `day3_numpy_basics.py`
