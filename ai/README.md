@@ -21,3 +21,8 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 
 - ✅ Learned: Arrays, operations, shapes, slicing, broadcasting
 - 📝 File: `day3_numpy_basics.py`
+
+## 📅 Day 4 – Pandas Basics
+
+- ✅ Learned: Creating DataFrames, filtering, reading CSVs
+- 📝 File: `day4_pandas_basics.py`
