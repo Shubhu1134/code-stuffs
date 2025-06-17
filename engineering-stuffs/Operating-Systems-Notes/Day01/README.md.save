@@ -1,0 +1,26 @@
+# 📘 Day 1: Introduction to Operating Systems
+
+## 📌 What is an Operating System (OS)?
+An OS is system software that acts as a bridge between user and hardware. It manages resources and provides services.
+
+## 🔧 Functions of OS:
+- Process Management
+- Memory Management
+- File System Management
+- Device Management
+- Security
+- User Interface
+
+## 📂 Types of OS:
+- Batch OS
+- Time-Sharing OS
+- Real-Time OS
+- Distributed OS
+- Mobile OS
+- Network OS
+
+## 💡 OS Components:
+- Kernel
+- Shell
+- File System
+- Device Drivers
