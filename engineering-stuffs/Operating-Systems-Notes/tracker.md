@@ -8,3 +8,4 @@ This file tracks the completion of each day's topic and the README status.
 | 02  | Process Management & Scheduling   | ✅ Completed | ✅ Yes       |
 | 03  | Threads & Multithreading          | ✅ Completed | ✅ Yes       |
 | 4   | CPU Scheduling Algorithms         | ✅ Completed | ✅ Yes       |
+| 5   | Process Synchronization           | ✅ Done      |
