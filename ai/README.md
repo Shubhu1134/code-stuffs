@@ -26,3 +26,9 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 
 - ✅ Learned: Creating DataFrames, filtering, reading CSVs
 - 📝 File: `day4_pandas_basics.py`
+
+## 📅 Day 5 – Data Preprocessing (Pandas Advanced)
+
+- ✅ Learned: Missing values, drop/fill columns, encoding
+- 🧾 Dataset: Titanic CSV
+- 📝 File: `day5_data_preprocessing.py`
