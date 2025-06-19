@@ -29,3 +29,27 @@ CREATE TABLE users (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
+
+---
+
+## 🎯 Goals
+
+- Create MySQL table for users
+- Implement REST API:
+  - POST `/api/users` → Create new user
+  - GET `/api/users` → List all users
+  - PUT `/api/users/:id` → Update user
+  - DELETE `/api/users/:id` → Delete user
+- Test API using Postman
+
+---
+
+## 🛠 SQL Table
+
+```sql
+CREATE TABLE users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100),
+  email VARCHAR(100)
+);
+```
