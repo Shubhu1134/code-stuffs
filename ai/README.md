@@ -32,3 +32,17 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - ✅ Learned: Missing values, drop/fill columns, encoding
 - 🧾 Dataset: Titanic CSV
 - 📝 File: `day5_data_preprocessing.py`
+
+## 📅 Day 6 – Data Visualization
+
+- ✅ Learned: Matplotlib + Seaborn for data insights
+- 📈 Visualized: Survival count, age distribution, correlation heatmap
+- 📝 File: `day6_visualization.py`
+- 🖼️ Output: Plots saved in `datasets/`
+
+## 📅 Day 7 – Intro to Machine Learning
+
+- ✅ Learned: Supervised vs Unsupervised, ML pipeline
+- 🧪 Model: Logistic Regression (Binary Classification)
+- 🎯 Accuracy: ~0.78 on Titanic data
+- 📝 File: `day7_intro_to_ml.py`

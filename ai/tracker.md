@@ -8,3 +8,4 @@
 | 2025-06-17 | 4   | Pandas Basics: DataFrames, CSV, filtering    | <your-commit-id> | Practiced loading and manipulating tabular data |
 | 2025-06-18 | 5   | Data Cleaning: Missing values, encoding      | <your-commit-id> | Used Titanic dataset for real-world prep        |
 | 2025-06-19 | 6   | Data visualization with Matplotlib & Seaborn | <your-commit-id> | Generated survival, age & heatmap plots         |
+| 2025-06-20 | 7   | Intro to ML: pipeline + logistic regression  | <commit-id>      | Built first ML model on Titanic dataset         |
