@@ -46,3 +46,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🧪 Model: Logistic Regression (Binary Classification)
 - 🎯 Accuracy: ~0.78 on Titanic data
 - 📝 File: `day7_intro_to_ml.py`
+
+## 📅 Day 8 – Model Evaluation
+
+- ✅ Learned: Confusion matrix, precision, recall, F1, ROC
+- 📊 Visualized: Evaluation metrics for Titanic model
+- 📝 File: `day8_model_evaluation.py`
+- 🖼️ Output: Plots saved in `datasets/`
