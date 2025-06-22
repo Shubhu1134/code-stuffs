@@ -115,18 +115,19 @@ This tracker covers a **30-Day Backend Development Journey** using **Node.js**, 
 
 ## 📊 Progress Tracker
 
-| Day | Topic                       | Completed | Notes                  |
-| --- | --------------------------- | --------- | ---------------------- |
-| 1   | Environment Setup           | ✅        | Installed dependencies |
-| 2   | Structure & DB Connection   | ✅        | DB via `.env`          |
-| 3   | CRUD Operations             | ✅        | Tested with Postman    |
-| 4   | Validation & Error Handling | ✅        | Middleware added       |
-| 5   | MVC Architecture            | ✅        | Clean folder structure |
-| 6   | Auth (JWT + Hashing)        | ⬜        |                        |
-| 7   | JWT Protected Routes        | ⬜        |                        |
-| 8   | MySQL Joins + Pagination    | ⬜        |                        |
-| 9   | File Uploads (Multer)       | ⬜        |                        |
-| 10  | Deployment Basics           | ⬜        |                        |
+| Day | Topic                       | Completed                    | Notes                  |
+| --- | --------------------------- | ---------------------------- | ---------------------- |
+| 1   | Environment Setup           | ✅                           | Installed dependencies |
+| 2   | Structure & DB Connection   | ✅                           | DB via `.env`          |
+| 3   | CRUD Operations             | ✅                           | Tested with Postman    |
+| 4   | Validation & Error Handling | ✅                           | Middleware added       |
+| 5   | MVC Architecture            | ✅                           | Clean folder structure |
+| 5   | MVC Architecture            | ✅                           | Clean folder structure |
+| 6   | Auth (JWT + Hashing)        | Login/Register, JWT + bcrypt | ✅                     |
+| 7   | JWT Protected Routes        | ⬜                           |                        |
+| 8   | MySQL Joins + Pagination    | ⬜                           |                        |
+| 9   | File Uploads (Multer)       | ⬜                           |                        |
+| 10  | Deployment Basics           | ⬜                           |                        |
 
 ---
 
