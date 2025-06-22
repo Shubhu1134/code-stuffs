@@ -53,3 +53,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 📊 Visualized: Evaluation metrics for Titanic model
 - 📝 File: `day8_model_evaluation.py`
 - 🖼️ Output: Plots saved in `datasets/`
+
+## 📅 Day 9 – Model Improvement: Feature Selection + Scaling
+
+- ✅ Learned: Manual feature selection, correlation heatmap
+- 📏 Scaled data: MinMaxScaler & StandardScaler
+- 📊 Compared model accuracy with and without scaling
+- 📝 File: `day9_feature_selection_scaling.py`
