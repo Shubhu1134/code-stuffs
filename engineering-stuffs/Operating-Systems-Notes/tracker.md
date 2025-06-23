@@ -13,3 +13,4 @@ This file tracks the completion of each day's topic and the README status.
 | 7   | Memory Management – Paging & Segmentation         | ✅ Done      |
 | 8   | Virtual Memory – Demand Paging & Page Replacement | ✅ Done      |
 | 9   | Page Replacement (Contd) & Thrashing              | ✅ Done      |
+| 10  | Disk Scheduling & File System Concepts            | ✅ Done      |
