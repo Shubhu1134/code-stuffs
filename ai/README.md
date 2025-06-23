@@ -60,3 +60,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 📏 Scaled data: MinMaxScaler & StandardScaler
 - 📊 Compared model accuracy with and without scaling
 - 📝 File: `day9_feature_selection_scaling.py`
+
+## 📅 Day 10 – K-Nearest Neighbors (KNN)
+
+- ✅ Learned: Theory of KNN + distance-based prediction
+- 🛠️ Built: Manual KNN + `KNeighborsClassifier` from sklearn
+- 🧪 Compared predictions and accuracy
+- 📝 File: `day10_knn_model.py`
