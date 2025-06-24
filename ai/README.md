@@ -67,3 +67,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🛠️ Built: Manual KNN + `KNeighborsClassifier` from sklearn
 - 🧪 Compared predictions and accuracy
 - 📝 File: `day10_knn_model.py`
+
+## 📅 Day 11 – Decision Trees
+
+- ✅ Learned: Decision nodes, Gini, Entropy, tree depth
+- 🌳 Visualized: Tree structure using `plot_tree`
+- 📊 Evaluation: Accuracy + classification report
+- 📝 File: `day11_decision_tree.py`

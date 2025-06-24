@@ -11,3 +11,4 @@
 | 2025-06-20 | 7   | Intro to ML: pipeline + logistic regression       | <commit-id>      | Built first ML model on Titanic dataset             |
 | 2025-06-21 | 8   | Evaluated ML model using confusion matrix, ROC    | <commit-id>      | Visualized precision, recall, F1, ROC on Titanic    |
 | 2025-06-22 | 9   | Feature selection + feature scaling (improvement) | <commit-id>      | Compared raw vs scaled models using Titanic dataset |
+| 2025-06-24 | 11  | Decision Trees: training + visualization          | <commit-id>      | Built & visualized a decision tree on Titanic data  |
