@@ -74,3 +74,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🌳 Visualized: Tree structure using `plot_tree`
 - 📊 Evaluation: Accuracy + classification report
 - 📝 File: `day11_decision_tree.py`
+
+## 📅 Day 12 – Random Forest
+
+- ✅ Learned: Ensemble learning, bagging, feature randomness
+- 🌲 Trained: `RandomForestClassifier` with 100 trees
+- 📈 Output: Feature importance plot saved
+- 📝 File: `day12_random_forest.py`
