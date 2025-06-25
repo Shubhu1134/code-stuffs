@@ -13,3 +13,4 @@
 | 2025-06-22 | 9   | Feature selection + feature scaling (improvement)     | <commit-id>      | Compared raw vs scaled models using Titanic dataset |
 | 2025-06-24 | 11  | Decision Trees: training + visualization              | <commit-id>      | Built & visualized a decision tree on Titanic data  |
 | 2025-06-25 | 12  | Random Forest: Ensemble Learning + Feature Importance | <commit-id>      | Compared accuracy with Decision Trees, saved plot   |
+| 2025-06-26 | 13  | GridSearchCV + Cross-Validation tuning                | <commit-id>      | Tuned Random Forest on Titanic for better accuracy  |

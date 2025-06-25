@@ -81,3 +81,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🌲 Trained: `RandomForestClassifier` with 100 trees
 - 📈 Output: Feature importance plot saved
 - 📝 File: `day12_random_forest.py`
+
+## 📅 Day 13 – Hyperparameter Tuning with Grid Search
+
+- 🧠 Learned: Hyperparameters, GridSearchCV, cross-validation
+- 🛠️ Tuned: Random Forest with different depths and estimators
+- 🏆 Output: Best model accuracy and hyperparameters
+- 📝 File: `day13_grid_search_tuning.py`
