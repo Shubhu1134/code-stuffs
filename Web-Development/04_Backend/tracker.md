@@ -125,8 +125,8 @@ This tracker covers a **30-Day Backend Development Journey** using **Node.js**, 
 | 5   | MVC Architecture            | ✅        | Clean folder structure       |
 | 6   | Auth (JWT + Hashing)        | ✅        | Login/Register, JWT + bcrypt |
 | 7   | JWT Protected Routes        | ✅        | JWT middleware added         |
-| 8   | MySQL Joins + Pagination    | ⬜        |                              |
-| 9   | File Uploads (Multer)       | ⬜        |                              |
+| 8   | MySQL Joins + Pagination    | ✅        | JOIN + pagination/search     |
+| 9   | File Uploads (Multer)       | ✅        |                              |
 | 10  | Deployment Basics           | ⬜        |                              |
 
 ---
