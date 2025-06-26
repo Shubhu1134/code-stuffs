@@ -16,3 +16,4 @@ This file tracks the completion of each day's topic and the README status.
 | 10  | Disk Scheduling & File System Concepts                    | ✅ Done      |
 | 11  | File System Implementation (Inodes, Free Space, Mounting) | ✅ Done      |
 | 12  | I/O Systems & Interrupt Handling                          | ✅ Done      |
+| 13  | Deadlocks – Concepts, Detection & Prevention              | ✅ Done      |
