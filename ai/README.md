@@ -88,3 +88,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🛠️ Tuned: Random Forest with different depths and estimators
 - 🏆 Output: Best model accuracy and hyperparameters
 - 📝 File: `day13_grid_search_tuning.py`
+
+## 📅 Day 14 – Support Vector Machines (SVM)
+
+- ✅ Learned: Margin maximization, support vectors, kernel trick
+- 🧪 Tested: `SVC` with `rbf` kernel
+- 🎯 Achieved: High accuracy with standardized features
+- 📝 File: `day14_svm_model.py`
