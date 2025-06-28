@@ -15,3 +15,4 @@
 | 2025-06-25 | 12  | Random Forest: Ensemble Learning + Feature Importance | <commit-id>      | Compared accuracy with Decision Trees, saved plot     |
 | 2025-06-26 | 13  | GridSearchCV + Cross-Validation tuning                | <commit-id>      | Tuned Random Forest on Titanic for better accuracy    |
 | 2025-06-27 | 14  | Support Vector Machine (SVM) model                    | <commit-id>      | Trained SVM using scaled Titanic data with RBF kernel |
+| 2025-06-28 | 15  | Naive Bayes: Titanic with GaussianNB                  | <commit-id>      | Applied probabilistic classification, tested accuracy |

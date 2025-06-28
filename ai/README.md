@@ -95,3 +95,9 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🧪 Tested: `SVC` with `rbf` kernel
 - 🎯 Achieved: High accuracy with standardized features
 - 📝 File: `day14_svm_model.py`
+
+## 📅 Day 15 – Naive Bayes Classifier
+
+- ✅ Learned: Bayes’ Theorem, Naive independence assumption
+- 🧪 Tested: `GaussianNB` on Titanic dataset
+- 📝 File: `day15_naive_bayes.py`
