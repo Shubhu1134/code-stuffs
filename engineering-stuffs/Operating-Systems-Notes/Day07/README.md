@@ -45,3 +45,7 @@ Page Number = 2050 / 1024 = 2
 Offset = 2050 % 1024 = 2
 
 Physical Address = (5 × 1024) + 2 = 5122
+
+Logical Address = Segment Number + Offset
+Check: Offset < Limit?
+Physical Address = Base + Offset
