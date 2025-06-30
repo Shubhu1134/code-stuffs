@@ -19,3 +19,5 @@ This file tracks the completion of each day's topic and the README status.
 | 13  | Deadlocks – Concepts, Detection & Prevention              | ✅ Done      |
 | 14  | Deadlock Avoidance – Banker’s Algorithm                   | ✅ Done      |
 | 15  | Memory Management – Contiguous Allocation & Paging        | ✅ Done      |
+| 16  | Virtual Memory, Demand Paging & Thrashing                 | ✅ Done      |
+| 17  | Page Replacement Algorithms (FIFO, LRU, Optimal, Clock)   | ✅ Done      |
