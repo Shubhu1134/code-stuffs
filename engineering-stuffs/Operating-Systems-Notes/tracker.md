@@ -22,3 +22,4 @@ This file tracks the completion of each day's topic and the README status.
 | 16  | Virtual Memory, Demand Paging & Thrashing                 | ✅ Done      |
 | 17  | Page Replacement Algorithms (FIFO, LRU, Optimal, Clock)   | ✅ Done      |
 | 18  | File Systems – Structure, Access Methods & Allocation     | ✅ Done      |
+| 19  | Disk Scheduling Algorithms                                | ✅ Done      |
