@@ -101,3 +101,9 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - ✅ Learned: Bayes’ Theorem, Naive independence assumption
 - 🧪 Tested: `GaussianNB` on Titanic dataset
 - 📝 File: `day15_naive_bayes.py`
+
+## 📅 Day 16 – Model Comparison Dashboard
+
+- 📈 Compared: Logistic, KNN, DT, RF, SVM, Naive Bayes
+- 📊 Metrics: Accuracy, F1 Score, Confusion Matrix (images)
+- 📝 Files: `day16_model_comparison.py`, model_comparison_metrics.csv
