@@ -21,3 +21,4 @@ This file tracks the completion of each day's topic and the README status.
 | 15  | Memory Management – Contiguous Allocation & Paging        | ✅ Done      |
 | 16  | Virtual Memory, Demand Paging & Thrashing                 | ✅ Done      |
 | 17  | Page Replacement Algorithms (FIFO, LRU, Optimal, Clock)   | ✅ Done      |
+| 18  | File Systems – Structure, Access Methods & Allocation     | ✅ Done      |
