@@ -107,3 +107,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 📈 Compared: Logistic, KNN, DT, RF, SVM, Naive Bayes
 - 📊 Metrics: Accuracy, F1 Score, Confusion Matrix (images)
 - 📝 Files: `day16_model_comparison.py`, model_comparison_metrics.csv
+
+## 📅 Day 17 – Neural Network from Scratch with NumPy
+
+- 🧠 Built: 2-layer neural net with sigmoid activations
+- 🔁 Implemented: Forward pass, backpropagation, gradient descent
+- 🎯 Accuracy: Achieved binary classification on `make_moons`
+- 📈 File: `day17_numpy_neural_net.py`

@@ -17,3 +17,4 @@
 | 2025-06-27 | 14  | Support Vector Machine (SVM) model                    | <commit-id>      | Trained SVM using scaled Titanic data with RBF kernel        |
 | 2025-06-28 | 15  | Naive Bayes: Titanic with GaussianNB                  | <commit-id>      | Applied probabilistic classification, tested accuracy        |
 | 2025-06-29 | 16  | Model Comparison Dashboard                            | <commit-id>      | Compared 6 ML models with accuracy, F1, and confusion matrix |
+| 2025-06-30 | 17  | Neural Network from Scratch with NumPy                | <commit-id>      | Forward + Backprop + Loss Curve on Binary Data               |
