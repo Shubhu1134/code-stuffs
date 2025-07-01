@@ -114,3 +114,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🔁 Implemented: Forward pass, backpropagation, gradient descent
 - 🎯 Accuracy: Achieved binary classification on `make_moons`
 - 📈 File: `day17_numpy_neural_net.py`
+
+## 📅 Day 18 – Intro to PyTorch: Neural Network
+
+- ✅ Built a 2-layer Neural Net using `torch.nn`
+- 🔁 Trained using `BCELoss` and `Adam` optimizer
+- 🎯 Dataset: `make_moons` binary classification
+- 📈 File: `day18_pytorch_intro_nn.py`
