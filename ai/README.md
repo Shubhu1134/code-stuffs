@@ -128,3 +128,11 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🧠 Trained neural net to classify 3 Iris flower species
 - 🧪 Used `CrossEntropyLoss` for multiclass classification
 - 📝 File: `day19_iris_dataloader_multiclass.py`
+
+## 📅 Day 20 – CNN for MNIST Image Classification
+
+- 🧠 Built: 2-layer CNN using PyTorch (`Conv2d`, `MaxPool2d`, `Linear`)
+- 📦 Dataset: MNIST (28x28 grayscale digits)
+- 🧪 Used: CrossEntropyLoss + Adam
+- 📈 Final Accuracy: >97% (varies slightly)
+- 📝 File: `day20_cnn_mnist_classification.py`

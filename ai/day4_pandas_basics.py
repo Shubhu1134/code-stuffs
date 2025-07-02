@@ -32,3 +32,4 @@ print(df)
 # loaded_df = pd.read_csv("sample.csv")
 # print("\n📂 Loaded CSV Data:")
 # print(loaded_df.head())
+    

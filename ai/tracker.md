@@ -20,3 +20,4 @@
 | 2025-06-30 | 17  | Neural Network from Scratch with NumPy                | <commit-id>      | Forward + Backprop + Loss Curve on Binary Data                    |
 | 2025-07-01 | 18  | PyTorch Intro: Simple Neural Network                  | <commit-id>      | Built NN with torch.nn, plotted loss, and evaluated test accuracy |
 | 2025-07-02 | 19  | PyTorch DataLoader + Multiclass Classification        | <commit-id>      | Iris dataset classification using DataLoader & CrossEntropyLoss   |
+| 2025-07-03 | 20  | CNN on MNIST                                          | <commit-id>      | Built CNN with PyTorch, classified digits with high accuracy      |
