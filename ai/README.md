@@ -121,3 +121,10 @@ Welcome to my AI learning folder! This contains my daily progress, projects, and
 - 🔁 Trained using `BCELoss` and `Adam` optimizer
 - 🎯 Dataset: `make_moons` binary classification
 - 📈 File: `day18_pytorch_intro_nn.py`
+
+## 📅 Day 19 – PyTorch DataLoader + Multiclass Classification
+
+- 🔄 Used PyTorch `Dataset` & `DataLoader`
+- 🧠 Trained neural net to classify 3 Iris flower species
+- 🧪 Used `CrossEntropyLoss` for multiclass classification
+- 📝 File: `day19_iris_dataloader_multiclass.py`
