@@ -1,11 +1,7 @@
-Got it 👍 Let’s create a **practice example with a topic** so you and your class can simulate a real Toastmasters meeting.
-
 ---
-
 # 🕰️ Toastmasters Meeting Practice Example
 
 ### **Topic**: _The Impact of Technology on Our Daily Lives_
-
 ---
 
 ## 1. 🧑‍⚖️ TMOD (Toastmaster of the Day)
